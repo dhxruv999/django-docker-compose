@@ -1,4 +1,4 @@
-# Run Django with Docker Compose
+# Run Django with Docker Composes
 
 This repo contains code to spin up a boilerplate Django project with Docker Compose.
 
